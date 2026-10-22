@@ -601,5 +601,185 @@ const ITEMS = [
   "video": "videos/oct/07-boardroom-exit.mp4",
   "poster": "posters/oct__07-boardroom-exit.jpg",
   "dur": 6
+ },
+ {
+  "id": "cars/V11-car-hairpin",
+  "title": "Hairpin drive",
+  "lane": "cars",
+  "date": "2026-10-16",
+  "video": "videos/cars/V11-car-hairpin.mp4",
+  "poster": "posters/cars__V11-car-hairpin.jpg",
+  "dur": 10
+ },
+ {
+  "id": "cars/V13-car-start-stop",
+  "title": "Traffic jam · start-stop",
+  "lane": "cars",
+  "date": "2026-10-16",
+  "video": "videos/cars/V13-car-start-stop.mp4",
+  "poster": "posters/cars__V13-car-start-stop.jpg",
+  "dur": 10
+ },
+ {
+  "id": "cars/V15-car-promenade",
+  "title": "Harbour promenade",
+  "lane": "cars",
+  "date": "2026-10-16",
+  "video": "videos/cars/V15-car-promenade.mp4",
+  "poster": "posters/cars__V15-car-promenade.jpg",
+  "dur": 10
+ },
+ {
+  "id": "cars/V16-paddock",
+  "title": "Paddock walk",
+  "lane": "cars",
+  "date": "2026-10-16",
+  "video": "videos/cars/V16-paddock.mp4",
+  "poster": "posters/cars__V16-paddock.jpg",
+  "dur": 10
+ },
+ {
+  "id": "oct/08-v1-crosswalk",
+  "title": "Crosswalk · rain",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/08-v1-crosswalk.mp4",
+  "poster": "posters/oct__08-v1-crosswalk.jpg",
+  "dur": 10
+ },
+ {
+  "id": "oct/09-v2-metro",
+  "title": "Metro · train blur",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/09-v2-metro.mp4",
+  "poster": "posters/oct__09-v2-metro.jpg",
+  "dur": 10
+ },
+ {
+  "id": "oct/10-v3-bridge",
+  "title": "Bridge · fog",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/10-v3-bridge.mp4",
+  "poster": "posters/oct__10-v3-bridge.jpg",
+  "dur": 10
+ },
+ {
+  "id": "oct/11-v4-garage",
+  "title": "Garage · flicker",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/11-v4-garage.mp4",
+  "poster": "posters/oct__11-v4-garage.jpg",
+  "dur": 10
+ },
+ {
+  "id": "oct/12-v1b-crosswalk",
+  "title": "Crosswalk · v2",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/12-v1b-crosswalk.mp4",
+  "poster": "posters/oct__12-v1b-crosswalk.jpg",
+  "dur": 10
+ },
+ {
+  "id": "oct/13-v3b-bridge",
+  "title": "Bridge · v2",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/13-v3b-bridge.mp4",
+  "poster": "posters/oct__13-v3b-bridge.jpg",
+  "dur": 10
+ },
+ {
+  "id": "oct/14-v5-lobby",
+  "title": "Lobby · coffee",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/14-v5-lobby.mp4",
+  "poster": "posters/oct__14-v5-lobby.jpg",
+  "dur": 10
+ },
+ {
+  "id": "oct/15-v6-rooftop",
+  "title": "Rooftop · wind",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/15-v6-rooftop.mp4",
+  "poster": "posters/oct__15-v6-rooftop.jpg",
+  "dur": 10
+ },
+ {
+  "id": "oct/16-m5-bridge-timelapse",
+  "title": "Bridge · time-lapse",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/16-m5-bridge-timelapse.mp4",
+  "poster": "posters/oct__16-m5-bridge-timelapse.jpg",
+  "dur": 8
+ },
+ {
+  "id": "oct/17-k6-boardroom",
+  "title": "Boardroom · calm",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/17-k6-boardroom.mp4",
+  "poster": "posters/oct__17-k6-boardroom.jpg",
+  "dur": 8
+ },
+ {
+  "id": "oct/18-k7-library",
+  "title": "Library",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/18-k7-library.mp4",
+  "poster": "posters/oct__18-k7-library.jpg",
+  "dur": 8
+ },
+ {
+  "id": "oct/19-k8-garage",
+  "title": "Garage · calm",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/19-k8-garage.mp4",
+  "poster": "posters/oct__19-k8-garage.jpg",
+  "dur": 8
+ },
+ {
+  "id": "choice/choice-intro-normal",
+  "title": "The Choice · normal",
+  "lane": "choice",
+  "date": "2026-10-22",
+  "video": "videos/choice/choice-intro-normal.mp4",
+  "poster": "posters/choice__choice-intro-normal.jpg",
+  "dur": 20
+ },
+ {
+  "id": "choice/choice-intro-slowmo",
+  "title": "The Choice · slow motion",
+  "lane": "choice",
+  "date": "2026-10-22",
+  "video": "videos/choice/choice-intro-slowmo.mp4",
+  "poster": "posters/choice__choice-intro-slowmo.jpg",
+  "dur": 16
+ },
+ {
+  "id": "choice/choice-intro-5s",
+  "title": "The Choice · 5 s",
+  "lane": "choice",
+  "date": "2026-10-22",
+  "video": "videos/choice/choice-intro-5s.mp4",
+  "poster": "posters/choice__choice-intro-5s.jpg",
+  "dur": 5
+ },
+ {
+  "id": "choice/choice-intro-intro-only",
+  "title": "The Choice · intro only",
+  "lane": "choice",
+  "date": "2026-10-22",
+  "video": "videos/choice/choice-intro-intro-only.mp4",
+  "poster": "posters/choice__choice-intro-intro-only.jpg",
+  "dur": 17
  }
 ];
