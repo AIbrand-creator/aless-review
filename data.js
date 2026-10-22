@@ -538,5 +538,68 @@ const ITEMS = [
   "video": "videos/sept/19-pour-teal-lab.mp4",
   "poster": "posters/sept__19-pour-teal-lab.jpg",
   "dur": 10
+ },
+ {
+  "id": "oct/01-crosswalk-timelapse",
+  "title": "Crosswalk · time-lapse",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/01-crosswalk-timelapse.mp4",
+  "poster": "posters/oct__01-crosswalk-timelapse.jpg",
+  "dur": 8
+ },
+ {
+  "id": "oct/02-metro-timelapse",
+  "title": "Metro · time-lapse",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/02-metro-timelapse.mp4",
+  "poster": "posters/oct__02-metro-timelapse.jpg",
+  "dur": 8
+ },
+ {
+  "id": "oct/03-lobby-timelapse",
+  "title": "Lobby · time-lapse",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/03-lobby-timelapse.mp4",
+  "poster": "posters/oct__03-lobby-timelapse.jpg",
+  "dur": 8
+ },
+ {
+  "id": "oct/04-rooftop-timelapse",
+  "title": "Rooftop · time-lapse",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/04-rooftop-timelapse.mp4",
+  "poster": "posters/oct__04-rooftop-timelapse.jpg",
+  "dur": 8
+ },
+ {
+  "id": "oct/05-connector",
+  "title": "The connector · chains",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/05-connector.mp4",
+  "poster": "posters/oct__05-connector.jpg",
+  "dur": 8
+ },
+ {
+  "id": "oct/06-garage-walk",
+  "title": "Garage · walk",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/06-garage-walk.mp4",
+  "poster": "posters/oct__06-garage-walk.jpg",
+  "dur": 6
+ },
+ {
+  "id": "oct/07-boardroom-exit",
+  "title": "Boardroom · exit",
+  "lane": "oct",
+  "date": "2026-10-17",
+  "video": "videos/oct/07-boardroom-exit.mp4",
+  "poster": "posters/oct__07-boardroom-exit.jpg",
+  "dur": 6
  }
 ];
